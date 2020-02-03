@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PuchoSpeakListen</string>
+    <string name="phone_number">What is your phone number? </string>
+
+    <string-array name="gender">
+        <item> Male </item>
+        <item> Female</item>
+        <item> Others</item>
+    </string-array>
+</resources>

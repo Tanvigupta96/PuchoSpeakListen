@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "690774111849",
+    "firebase_url": "https://puchospeaklisten.firebaseio.com",
+    "project_id": "puchospeaklisten",
+    "storage_bucket": "puchospeaklisten.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:690774111849:android:e69fe4a789846398f254f8",
+        "android_client_info": {
+          "package_name": "com.example.puchospeaklisten"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "690774111849-edl5cjns09l45cplcmpaeo0h6tl4k7kd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.puchospeaklisten",
+            "certificate_hash": "7621831fb6ef841ce3bd74e2ee653c6b460c71fb"
+          }
+        },
+        {
+          "client_id": "690774111849-i9mpt9cu7l3q4t0euf3d6ncl0r7pqic9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGOMYpPoAvutUcCrbRTa5B5zIXljN1uZ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "690774111849-i9mpt9cu7l3q4t0euf3d6ncl0r7pqic9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
