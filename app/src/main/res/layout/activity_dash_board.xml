@@ -9,7 +9,7 @@
     <RelativeLayout
         android:layout_width="match_parent"
         android:layout_height="245dp"
-        android:background="@drawable/img"
+        android:background="@drawable/im"
         >
 
 
@@ -26,7 +26,7 @@
     <RelativeLayout
         android:layout_width="match_parent"
         android:layout_height="245dp"
-        android:background="@drawable/img"
+        android:background="@drawable/im"
         >
         <Button
             android:layout_width="60dp" android:layout_marginTop="30dp"
@@ -39,15 +39,27 @@
     <RelativeLayout
         android:layout_width="match_parent"
         android:layout_height="245dp"
-        android:background="@drawable/img"
+        android:background="@drawable/im"
         >
         <Button
-            android:layout_width="60dp" android:layout_marginTop="30dp"
+            android:layout_width="60dp"
+            android:layout_marginTop="30dp"
             android:layout_marginRight="50dp"
             android:layout_alignParentRight="true"
-            android:id="@+id/btn_translation" android:layout_height="60dp"
+            android:id="@+id/btn_translation"
+            android:layout_height="60dp"
             android:background="@drawable/yellow_translation_btn"
             />
+
+        <Button
+            android:id="@+id/logout"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginRight="58dp"
+            android:layout_marginBottom="26dp"
+            android:background="@drawable/lgout" />
     </RelativeLayout>
 </LinearLayout>
 <!--
